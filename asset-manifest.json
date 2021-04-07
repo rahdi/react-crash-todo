@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/react-crash-todo/static/css/main.d7ebb5ad.chunk.css",
-    "main.js": "/react-crash-todo/static/js/main.bc3b6cff.chunk.js",
-    "main.js.map": "/react-crash-todo/static/js/main.bc3b6cff.chunk.js.map",
+    "main.css": "/react-crash-todo/static/css/main.408cceb4.chunk.css",
+    "main.js": "/react-crash-todo/static/js/main.51aa7844.chunk.js",
+    "main.js.map": "/react-crash-todo/static/js/main.51aa7844.chunk.js.map",
     "runtime-main.js": "/react-crash-todo/static/js/runtime-main.7af4bbb1.js",
     "runtime-main.js.map": "/react-crash-todo/static/js/runtime-main.7af4bbb1.js.map",
-    "static/js/2.750cf1c3.chunk.js": "/react-crash-todo/static/js/2.750cf1c3.chunk.js",
-    "static/js/2.750cf1c3.chunk.js.map": "/react-crash-todo/static/js/2.750cf1c3.chunk.js.map",
+    "static/js/2.9d0224d9.chunk.js": "/react-crash-todo/static/js/2.9d0224d9.chunk.js",
+    "static/js/2.9d0224d9.chunk.js.map": "/react-crash-todo/static/js/2.9d0224d9.chunk.js.map",
     "index.html": "/react-crash-todo/index.html",
-    "static/css/main.d7ebb5ad.chunk.css.map": "/react-crash-todo/static/css/main.d7ebb5ad.chunk.css.map",
-    "static/js/2.750cf1c3.chunk.js.LICENSE.txt": "/react-crash-todo/static/js/2.750cf1c3.chunk.js.LICENSE.txt"
+    "static/css/main.408cceb4.chunk.css.map": "/react-crash-todo/static/css/main.408cceb4.chunk.css.map",
+    "static/js/2.9d0224d9.chunk.js.LICENSE.txt": "/react-crash-todo/static/js/2.9d0224d9.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.7af4bbb1.js",
-    "static/js/2.750cf1c3.chunk.js",
-    "static/css/main.d7ebb5ad.chunk.css",
-    "static/js/main.bc3b6cff.chunk.js"
+    "static/js/2.9d0224d9.chunk.js",
+    "static/css/main.408cceb4.chunk.css",
+    "static/js/main.51aa7844.chunk.js"
   ]
 }
