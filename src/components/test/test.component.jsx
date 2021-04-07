@@ -6,18 +6,21 @@ export class TestComponent extends Component {
   render() {
     const width = window.innerWidth;
     return (
-      <div className="test-grid">
-        <div className="grid-item">Element 1</div>
-        <div className="grid-item">Element 1</div>
-        <div className="grid-item">Element 1</div>
-        <div className="grid-item">Element 1</div>
-        <div className="grid-item">Element 1</div>
-        <div className="grid-item">Element 1</div>
-        <div className="grid-item">Element 1</div>
-        <div className="grid-item">Element 1</div>
-        <div className="grid-item">Element 1</div>
-        <div className="grid-item">Element 1</div>
-        <div className="grid-item">{width}</div>
+      <div>
+        <div className="test-grid">
+          <div className="grid-item">Element 1</div>
+          <div className="grid-item">Element 1</div>
+          <div className="grid-item">Element 1</div>
+          <div className="grid-item">Element 1</div>
+          <div className="grid-item">Element 1</div>
+          <div className="grid-item">Element 1</div>
+          <div className="grid-item">Element 1</div>
+          <div className="grid-item">Element 1</div>
+          <div className="grid-item">Element 1</div>
+          <div className="grid-item">Element 1</div>
+          <div className="grid-item">{width}</div>
+        </div>
+        <div className="rectangle">This is 320px</div>
       </div>
     );
   }
