@@ -21,6 +21,9 @@ export class TestComponent extends Component {
           <div className="grid-item">{width}</div>
         </div>
         <div className="rectangle">This is 320px</div>
+        <div className="test-item hvr">Hover to change color</div>
+        <div className="test-item clc">Click to change color</div>
+        <div className="test-item h-c">Hover and click</div>
       </div>
     );
   }

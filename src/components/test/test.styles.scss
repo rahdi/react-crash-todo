@@ -25,3 +25,36 @@
   margin: auto;
   text-align: center;
 }
+
+.test-item {
+  background-color: #8ccc9c;
+  border-radius: 0.5em;
+  margin: 5px;
+  text-align: center;
+  font-weight: bold;
+  padding: 10px;
+}
+
+.hvr:hover {
+  background-color: #679672;
+  cursor: pointer;
+}
+
+.clc:hover {
+  cursor: pointer;
+}
+
+.clc:active {
+  background-color: #679672;
+}
+
+.h-c:hover {
+  background-color: #d4fddd;
+  cursor: pointer;
+}
+
+.h-c:active {
+  background-color: #38523e;
+  cursor: pointer;
+  color: white;
+}
