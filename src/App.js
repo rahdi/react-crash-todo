@@ -58,7 +58,7 @@ class App extends Component {
       <Router>
         <div className="App">
           <div className="container">
-            <TestComponent />
+            {/* <TestComponent /> */}
             <Header />
             <Route
               exact
